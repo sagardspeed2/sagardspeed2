@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 <img src="https://github-readme-stats.vercel.app/api?username=sagardspeed2&count_private=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagardspeed2&hide=assembly" />
