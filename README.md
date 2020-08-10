@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on <b>With other DEvelopers</b>
 - 🤔 I’m looking for help with <b>Machine Learning</b>
 - 💬 Ask me about <b>Python and Javascript Frameworks</b>
-- ⚡ Fun fact: I love to Code and Watching Netflix
+- ⚡ Fun fact: <b>I love to Code and Watching Netflix</b>
 
 ### Connect with me:
 
