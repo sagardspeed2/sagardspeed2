@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sagardspeed2&count_private=true&&show_icons=true&theme=dark" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagardspeed2&hide=assembly" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagardspeed2" />
 
 
 
