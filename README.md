@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>React Project</b>
 - 🌱 I’m currently learning <b>Machine Learning</b>
-- 👯 I’m looking to collaborate on <b>With other DEvelopers</p>
+- 👯 I’m looking to collaborate on <b>With other DEvelopers</b>
 - 🤔 I’m looking for help with <b>Machine Learning</b>
 - 💬 Ask me about <b>Python and Javascript Frameworks</b>
 - 📫 How to reach me: Instagram: @sek_davara_codes
