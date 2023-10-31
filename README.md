@@ -1,11 +1,9 @@
 ### Hi there, I'm Sagar Davara 👋
 
-## I'm a Web Developer!
+## I'm a Full Stack Web Wizard!
 
-- 🔭 I’m currently working on <b>React Project</b>
-- 🌱 I’m currently learning <b>Machine Learning</b>
-- 👯 I’m looking to collaborate on <b>With other DEvelopers</b>
-- 🤔 I’m looking for help with <b>Machine Learning</b>
+- 🔭 I’m currently working on <b>AI and Backend Projects</b>
+- 🌱 I’m currently learning <b>AR and Blockchain Learning</b>
 - 💬 Ask me about <b>Python and Javascript Frameworks</b>
 - ⚡ Fun fact: <b>I love to Code and Watching Netflix</b>
 
